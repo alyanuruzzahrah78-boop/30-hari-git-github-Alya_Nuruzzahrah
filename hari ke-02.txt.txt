@@ -1,0 +1,2 @@
+Penjelasan Git init
+1. Git init, konfigurasi yang fungsi nya buat mengaktifkan .git di dalam suatu folder
