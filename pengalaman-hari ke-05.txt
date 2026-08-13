@@ -1,0 +1,1 @@
+masih belum terlalu paham tapi ada paham nya sedikit kalau untuk git restore, mirip seperti Undo (ctrl+z)
