@@ -1,2 +1,0 @@
-"Ini adalah password database: 123456".
-
